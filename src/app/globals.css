@@ -8,7 +8,7 @@
 
 @font-face {
     font-family: "BlackH";
-    src: url("../../public/font/HelveticaNeueBlack.otf") format("opentype");
+    src: url("/font/HelveticaNeueBlack.otf") format("opentype");
     font-weight: normal;
     font-style: normal;
   }
@@ -17,26 +17,26 @@
 
   @font-face {
     font-family: "BoldH";
-    src: url("../../public/font/HelveticaNeueBold.otf") format("opentype");
+    src: url("/font/HelveticaNeueBold.otf") format("opentype");
     font-weight: normal;
     font-style: normal;
   }
 
   @font-face {
     font-family: "MediumH";
-    src: url("../../public/font/HelveticaNeueMedium.otf") format("opentype");
+    src: url("/font/HelveticaNeueMedium.otf") format("opentype");
     font-weight: normal;
     font-style: normal;
   }
   @font-face {
     font-family: "RomanH";
-    src: url("../../public/font/HelveticaNeueRoman.otf") format("opentype");
+    src: url("/font/HelveticaNeueRoman.otf") format("opentype");
     font-weight: normal;
     font-style: normal;
   }
   @font-face {
     font-family: "LightH";
-    src: url("../../public/font/HelveticaNeueLight.otf") format("opentype");
+    src: url("/font/HelveticaNeueLight.otf") format("opentype");
     font-weight: normal;
     font-style: normal;
   }
